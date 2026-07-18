@@ -36,7 +36,6 @@ I am passionate about building useful and visually appealing digital products th
 Email: shoaibuudesign@gmail.com
 
 Portfolio: https://www.ishoaib.dev/
-
 ```
 
 ### 🛠️ Top Skills
@@ -76,7 +75,6 @@ Czech University of Life Sciences Prague
 
 ```
 Bachelor's Degree, Informatics (2026)
-
 ```
 
 ### 🎖️ Certifications
