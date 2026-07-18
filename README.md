@@ -22,7 +22,7 @@ Welcome! 🚀</h1>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square\&logo=github\&logoColor=white)
 
-I'm an Informatics graduate, digital product builder, UI/UX designer, and freelancer based in Prague, Czech Republic. I have completed more than 900 freelance projects and have experience in web development, digital marketing, e-commerce, customer support, SEO, and AI-powered products.
+I'm an Informatics graduate, digital product builder, and freelancer based in Prague, Czech Republic. I have completed more than 900 freelance projects and have experience in web development, digital marketing, e-commerce, customer support, SEO, and AI-powered products.
 
 I am passionate about building useful and visually appealing digital products that solve real problems.
 
@@ -70,21 +70,6 @@ Designed websites, user interfaces, social media content, and digital products.
 Managed customer communication, project delivery, SEO, Pinterest marketing, and e-commerce tasks.
 ```
 
-Gonchas - E-commerce Manager
-
-```
-Managed e-commerce operations, website content, products, and digital marketing.
-Contributed to generating more than $100,000 in annual revenue.
-Supported customer communication, online sales, and business growth.
-```
-
-Skardu Trips & Tours - Founder
-
-```
-Manage website operations, SEO, content creation, customer support, and digital marketing.
-Develop and promote tourism packages for destinations across northern Pakistan.
-```
-
 ### 📜 Education
 
 Czech University of Life Sciences Prague
@@ -92,13 +77,12 @@ Czech University of Life Sciences Prague
 ```
 Bachelor's Degree, Informatics (2026)
 
-Bachelor Thesis: The Impact of Technology on International Trade
 ```
 
 ### 🎖️ Certifications
 
 ```
-Add your certifications here
+Gemini Certified Educator
 ```
 
 ### 🍃 When I'm Away from the Keyboard
